@@ -1,10 +1,10 @@
-# 🏥 Health Data Cleaning & Preprocessing Project
+#  Health Data Cleaning & Preprocessing Project
 
 This project demonstrates a complete **Data Cleaning and Preprocessing Pipeline** for healthcare data. The objective is to handle missing values, detect and treat outliers, and prepare a **machine-learning-ready dataset** for disease risk prediction.
 
----
 
-## 📌 Project Overview
+
+##  Project Overview
 
 Healthcare datasets often contain:
 
@@ -15,9 +15,9 @@ Healthcare datasets often contain:
 
 This project applies multiple preprocessing techniques to improve dataset quality before machine learning modeling.
 
----
 
-## 📊 Dataset Description
+
+## Dataset Description
 
 The dataset contains patient health records with demographic and medical attributes.
 
@@ -35,7 +35,7 @@ The dataset contains patient health records with demographic and medical attribu
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Perform missing value analysis
 - Apply multiple imputation techniques
@@ -46,7 +46,7 @@ The dataset contains patient health records with demographic and medical attribu
 
 ---
 
-## 🛠️ Techniques Implemented
+##  Techniques Implemented
 
 ### 1. Missing Value Handling
 
@@ -89,7 +89,7 @@ Limits extreme observations while preserving all records.
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 Raw Dataset
@@ -118,7 +118,7 @@ Machine Learning Ready Data
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 HealthDataClean_Project2/
@@ -137,9 +137,9 @@ HealthDataClean_Project2/
     └── summary_report.pdf
 ```
 
----
 
-## 📈 Results
+
+##  Results
 
 ### Missing Value Treatment
 
@@ -162,7 +162,7 @@ Successfully detected and treated outliers using:
 
 ---
 
-## ✅ Final Dataset
+##  Final Dataset
 
 The final cleaned dataset:
 
@@ -173,7 +173,7 @@ The final cleaned dataset:
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### Best Imputation Technique: MICE
 
@@ -191,7 +191,7 @@ The final cleaned dataset:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Feature Engineering
 - Data Normalization
@@ -211,7 +211,7 @@ The final cleaned dataset:
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -224,7 +224,7 @@ The final cleaned dataset:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mant Patel**
 
