@@ -202,7 +202,7 @@ The final cleaned dataset:
 
 ---
 
-## 📷 Visualizations
+##  Visualizations
 
 - Missing Value Heatmap
 - Boxplot Before Outlier Treatment
